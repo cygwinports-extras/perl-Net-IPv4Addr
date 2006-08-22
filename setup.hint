@@ -1,0 +1,8 @@
+category: Perl Net
+requires: perl
+sdesc: "Perl IPv4 address parser module"
+ldesc: "Net::IPv4Addr provides functions for parsing IPv4 addresses both
+in traditional address/netmask format and in the new CIDR format.
+There are also methods for calculating the network and broadcast
+address and also to see check if a given address is in a specific
+network."
